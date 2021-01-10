@@ -1,0 +1,17 @@
+.ant-layout-header .logo {
+    float: left;
+    width: 160px;
+    height: 40px;
+    margin: 12px 24px 12px 0;
+    line-height: 40px;
+    font-size: 40px;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+.full {
+    min-height: calc(100vh - 70px - 64px - 60px);
+}
+

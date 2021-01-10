@@ -1,0 +1,15 @@
+{
+  "dbOptions": {
+    "database": "library",
+    "username": "root",
+    "password": "tk19980831",
+    "dialect": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "logging": false
+  },
+  "options": {
+    "type": "js",
+    "dir": "models"
+  }
+}
